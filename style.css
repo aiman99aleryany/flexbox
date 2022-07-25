@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-container {
+  border: 2px solid orange;
+  background-color: orange;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.navbar-container > nav {
+  grid-column: 4/5;
+  grid-row: 1;
+  padding-top: 3px;
+}
+
+.sidebar-container {
+}
