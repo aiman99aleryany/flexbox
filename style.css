@@ -4,17 +4,109 @@
 }
 
 .navbar-container {
-  border: 2px solid orange;
-  background-color: orange;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  border-bottom: #dc001d solid 5px;
+  grid-template-columns: 50px 50px 50px 50px repeat(10, 1fr);
+  grid-template-rows: 70px;
+  background-color: orange;
+  padding: 5px;
+  max-height: 70px;
 }
 
-.navbar-container > nav {
-  grid-column: 4/5;
+.navbar-container > .navbar-img {
+  display: flex;
+  grid-column: 12/13;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.navbar-container > .navbar-ul {
+  display: flex;
+  justify-content: center;
+  grid-column: 9/12;
   grid-row: 1;
-  padding-top: 3px;
+}
+
+.navbar-container > .navbar-ul > ul {
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  list-style-type: none;
+}
+
+.navbar-container > .navbar-ul > ul > li > a {
+  font-weight: 600;
+  text-decoration: none;
+  color: #dc001d;
+  background-color: tomato;
+  padding: 10px;
+  border-radius: 5px;
+  border: 3px solid red;
+}
+
+.navbar-container > .navbar-ul > ul > li > a:hover {
+  background-color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.navbar-container > .navbar-avatar-username {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  grid-column: 1/5;
+  grid-row: 1;
+}
+
+.navbar-avatar-username > * {
+  flex-grow: 0;
+  flex-basis: auto;
+  flex-shrink: 1;
 }
 
 .sidebar-container {
+  display: flex;
+  border-right: #dc001d solid 5px;
+  justify-content: center;
+  align-items: center;
+  background-color: wheat;
+  width: 200px;
+  height: 100vh;
+}
+
+.sidebar-container > .sidebar-links {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebar-container > .sidebar-links > ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
+
+.sidebar-container > .sidebar-links > ul > li {
+  flex-basis: 150px;
+}
+
+.sidebar-container > .sidebar-links > ul > li > a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #2b2b2b;
+  background-color: #ffa000;
+  padding: 20px;
+  border-radius: 5px;
+  border: #dc001d solid 5px;
+}
+
+.sidebar-container > .sidebar-links > ul > li > a:hover {
+  background-color: white;
+  cursor: pointer;
+  color: #2b2bb2;
+  transition: 0.3s;
 }
