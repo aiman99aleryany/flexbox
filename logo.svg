@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="svg3053"
+    sodipodi:docname="redmatrix_logo_smiley.svg"
+    inkscape:export-filename="/run/user/1000/gvfs/sftp:host=jeroenpraat.nl,port=69,user=jeroen/var/www/redmatrix/images/default_profile_photos/redmatrix_logo_smiley/48.png"
+    viewBox="0 0 200 200"
+    inkscape:export-xdpi="21.6"
+    version="1.1"
+    inkscape:export-ydpi="21.6"
+    inkscape:version="0.48.4 r9939"
+  >
+  <sodipodi:namedview
+      id="base"
+      fit-margin-left="0"
+      inkscape:zoom="2.8284271"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="21.25662"
+      inkscape:cy="148.19286"
+      inkscape:window-maximized="1"
+      showgrid="false"
+      fit-margin-right="0"
+      inkscape:guide-bbox="true"
+      inkscape:snap-global="false"
+      showguides="false"
+      bordercolor="#666666"
+      inkscape:window-x="49"
+      inkscape:window-y="24"
+      fit-margin-bottom="0"
+      inkscape:window-width="1871"
+      inkscape:pageopacity="0.0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      inkscape:document-units="px"
+      inkscape:window-height="1056"
+      fit-margin-top="0"
+    >
+    <inkscape:grid
+        id="grid3757"
+        type="xygrid"
+    />
+    <sodipodi:guide
+        id="guide3761"
+        position="103.03556,139.55889"
+        orientation="0,1"
+    />
+    <sodipodi:guide
+        id="guide3763"
+        position="132.14286,87.410714"
+        orientation="0,1"
+    />
+  </sodipodi:namedview
+  >
+  <g
+      id="layer1"
+      inkscape:label="Laag 1"
+      inkscape:groupmode="layer"
+      transform="translate(-315 -392.36)"
+    >
+    <g
+        id="g2985"
+        transform="matrix(4.7619 0 0 4.7619 -1370.7 -2042.7)"
+      >
+      <path
+          id="path3028-4-5-3"
+          sodipodi:rx="22.340425"
+          sodipodi:ry="23.138298"
+          style="fill:#c60032"
+          sodipodi:type="arc"
+          d="m218.09 397.84c0 12.779-10.002 23.138-22.34 23.138s-22.34-10.359-22.34-23.138 10.002-23.138 22.34-23.138 22.34 10.359 22.34 23.138z"
+          transform="matrix(.94 0 0 .90759 191 171.29)"
+          sodipodi:cy="397.84091"
+          sodipodi:cx="195.74467"
+      />
+      <g
+          id="text3003-0-4-0"
+          style="fill:#ffffff"
+          transform="translate(52.138 -208.57)"
+        >
+        <path
+            id="path3008"
+            sodipodi:nodetypes="cccccccccccccccc"
+            style="fill:#ffffff"
+            inkscape:connector-curvature="0"
+            d="m333.76 748.05v-4.4649h-4.1492l1.804-10.959 1.1275-7.0356h-4.7355l-1.1275 7.0356 0.39925 4.2-6.6779-0.0788 1.0921-4.1212 1.1275-7.0356h-4.7355l-1.1275 7.0356-1.804 10.959h-5.0963v4.4649"
+        />
+      </g
+      >
+    </g
+    >
+    <rect
+        id="rect2987"
+        ry=".37881"
+        style="fill-rule:evenodd;fill:#c60032"
+        transform="translate(315 392.36)"
+        height="52.207"
+        width="101.11"
+        y="60.428"
+        x="58.264"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
